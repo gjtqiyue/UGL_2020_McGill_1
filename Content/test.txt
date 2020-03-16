@@ -1,0 +1,9 @@
+<room> = <space> + <items>
+<space> = square([x], [y], [z], [w], [h])
+<items> = cube([x], [y], [z], [w])
+
+
+[x] = [0..10]
+[y] = [0..10]
+[z] = [0..10]
+[w] = [0..10]
